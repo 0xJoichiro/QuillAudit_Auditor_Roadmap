@@ -15,12 +15,12 @@ If you find anything missing or want to update existing resources, you can creat
 ### 1. Blockchain & Ethereum Basics:
 
 - ***Blockchain :***
-    - [Blockchain Technology Explained](https://www.youtube.com/watch?v=qOVAbKKSH10)
-    - [Blockchain Cryptography](https://101blockchains.com/blockchain-cryptography/)
+    - [x] [Blockchain Technology Explained](https://www.youtube.com/watch?v=qOVAbKKSH10)
+    - [ ] [Blockchain Cryptography](https://101blockchains.com/blockchain-cryptography/)
 - ***Ethereum:***
-    - [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
-        - Mandatory Chapters 1,4,5,6,7,9,13 & 14
-    - [Ethereum Documentations](https://ethereum.org/en/developers/)
+    - [ ] [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
+        - [ ] Mandatory Chapters 1,4,5,6,7,9,13 & 14
+    - [ ] [Ethereum Documentations](https://ethereum.org/en/developers/)
     
 
 ### 2. Solidity Fundamentals:
