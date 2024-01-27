@@ -25,35 +25,35 @@ If you find anything missing or want to update existing resources, you can creat
 
 ### 2. Solidity Fundamentals:
 
-- [Solidity Docs](https://docs.soliditylang.org/en/latest/)
-- [smartcontract.engineer](https://www.smartcontract.engineer/)
-- [Cryptozombies](https://cryptozombies.io/en/course/)
-- [Solidity-by-example](https://solidity-by-example.org/)
-- ***Secureum***:
-    - [Secureum Solidity 101](https://secureum.substack.com/p/solidity-101?s=r)
-    - [Secureum Solidity 201](https://secureum.substack.com/p/solidity-201?s=r)
-- **[Solidity Gas Optimizations List](https://github.com/iskdrews/awesome-solidity-gas-optimization)**
+- [ ] [Solidity Docs](https://docs.soliditylang.org/en/latest/)
+- [ ] [smartcontract.engineer](https://www.smartcontract.engineer/)
+- [ ] [Cryptozombies](https://cryptozombies.io/en/course/)
+- [ ] [Solidity-by-example](https://solidity-by-example.org/)
+- [ ] ***Secureum***:
+    - [ ] [Secureum Solidity 101](https://secureum.substack.com/p/solidity-101?s=r)
+    - [ ] [Secureum Solidity 201](https://secureum.substack.com/p/solidity-201?s=r)
+- [ ] **[Solidity Gas Optimizations List](https://github.com/iskdrews/awesome-solidity-gas-optimization)**
 
 ### 3. Testing and Debugging Frameworks
 
-- [Hardhat](https://hardhat.org/guides/waffle-testing.html)
-- [Brownie](https://eth-brownie.readthedocs.io/en/stable/)
-- [Foundry](https://github.com/foundry-rs/foundry)
-- [Tenderly](https://tenderly.co/)
+- [ ] [Hardhat](https://hardhat.org/guides/waffle-testing.html)
+- [ ] [Brownie](https://eth-brownie.readthedocs.io/en/stable/)
+- [ ] [Foundry](https://github.com/foundry-rs/foundry)
+- [ ] [Tenderly](https://tenderly.co/)
 
 ### 4. Commonly used Libraries and Token Standards:
 
-- **ERC Token Standards:**
-    - [ERC 20](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/)
-    - [ERC 721 (NFT)](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/)
-    - [ERC 777](https://ethereum.org/en/developers/docs/standards/tokens/erc-777/)
-    - [ERC 1155](https://ethereum.org/en/developers/docs/standards/tokens/erc-1155/)
-    - [ERC 4626](https://ethereum.org/en/developers/docs/standards/tokens/erc-4626/)
-    - [ERC 2981](https://eips.ethereum.org/EIPS/eip-2981)
+- [ ] **ERC Token Standards:**
+    - [ ] [ERC 20](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/)
+    - [ ] [ERC 721 (NFT)](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/)
+    - [ ] [ERC 777](https://ethereum.org/en/developers/docs/standards/tokens/erc-777/)
+    - [ ] [ERC 1155](https://ethereum.org/en/developers/docs/standards/tokens/erc-1155/)
+    - [ ] [ERC 4626](https://ethereum.org/en/developers/docs/standards/tokens/erc-4626/)
+    - [ ] [ERC 2981](https://eips.ethereum.org/EIPS/eip-2981)
     
-- **[OpenZeppelin Helper Library/Contracts.](https://github.com/OpenZeppelin/openzeppelin-contracts)**
+- [ ] **[OpenZeppelin Helper Library/Contracts.](https://github.com/OpenZeppelin/openzeppelin-contracts)**
 
-- **Upgradable Contracts:**
+- [ ] **Upgradable Contracts:**
     - [Upgradeable Contracts - Smartcontract Programmer](https://www.youtube.com/watch?v=JgSj7IiE4jA)
     - [yAcademy Proxies Research](https://proxies.yacademy.dev/)
     - [Risks of Upgradeable Contracts - Smartcontract Programmer](https://www.youtube.com/watch?v=XmxfB5JOt1Q)
