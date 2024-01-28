@@ -19,15 +19,15 @@ If you find anything missing or want to update existing resources, you can creat
     - [x] [Blockchain Cryptography](https://101blockchains.com/blockchain-cryptography/)
 - ***Ethereum:***
     - [x] [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
-        - [ ] Mandatory Chapters 1,4,5,6,7,9,13 & 14
-    - [ ] [Ethereum Documentations](https://ethereum.org/en/developers/)
+        - [x] Mandatory Chapters 1,4,5,6,7,9,13 & 14
+    - [x] [Ethereum Documentations](https://ethereum.org/en/developers/)
     
 
 ### 2. Solidity Fundamentals:
 
 - [ ] [Solidity Docs](https://docs.soliditylang.org/en/latest/)
 - [ ] [smartcontract.engineer](https://www.smartcontract.engineer/)
-- [ ] [Cryptozombies](https://cryptozombies.io/en/course/)
+- [x] [Cryptozombies](https://cryptozombies.io/en/course/)
 - [ ] [Solidity-by-example](https://solidity-by-example.org/)
 - [ ] ***Secureum***:
     - [ ] [Secureum Solidity 101](https://secureum.substack.com/p/solidity-101?s=r)
@@ -38,7 +38,7 @@ If you find anything missing or want to update existing resources, you can creat
 
 - [ ] [Hardhat](https://hardhat.org/guides/waffle-testing.html)
 - [ ] [Brownie](https://eth-brownie.readthedocs.io/en/stable/)
-- [ ] [Foundry](https://github.com/foundry-rs/foundry)
+- [x] [Foundry](https://github.com/foundry-rs/foundry)
 - [ ] [Tenderly](https://tenderly.co/)
 
 ### 4. Commonly used Libraries and Token Standards:
