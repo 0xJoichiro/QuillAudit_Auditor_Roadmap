@@ -44,7 +44,7 @@ If you find anything missing or want to update existing resources, you can creat
 ### 4. Commonly used Libraries and Token Standards:
 
 - [ ] **ERC Token Standards:**
-    - [ ] [ERC 20](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/)
+    - [x] [ERC 20](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/)
     - [ ] [ERC 721 (NFT)](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/)
     - [ ] [ERC 777](https://ethereum.org/en/developers/docs/standards/tokens/erc-777/)
     - [ ] [ERC 1155](https://ethereum.org/en/developers/docs/standards/tokens/erc-1155/)
@@ -54,21 +54,21 @@ If you find anything missing or want to update existing resources, you can creat
 - [ ] **[OpenZeppelin Helper Library/Contracts.](https://github.com/OpenZeppelin/openzeppelin-contracts)**
 
 - [ ] **Upgradable Contracts:**
-    - [Upgradeable Contracts - Smartcontract Programmer](https://www.youtube.com/watch?v=JgSj7IiE4jA)
-    - [yAcademy Proxies Research](https://proxies.yacademy.dev/)
-    - [Risks of Upgradeable Contracts - Smartcontract Programmer](https://www.youtube.com/watch?v=XmxfB5JOt1Q)
-    - [Different Proxy Patterns - EIPs 897, 1822, 1967, 1538, 2535](https://ethereum-blockchain-developer.com/110-upgrade-smart-contracts/00-project/)
-    - [Openzeppelin Proxy docs](https://docs.openzeppelin.com/contracts/4.x/api/proxy)
+    - [ ] [Upgradeable Contracts - Smartcontract Programmer](https://www.youtube.com/watch?v=JgSj7IiE4jA)
+    - [ ] [yAcademy Proxies Research](https://proxies.yacademy.dev/)
+    - [ ] [Risks of Upgradeable Contracts - Smartcontract Programmer](https://www.youtube.com/watch?v=XmxfB5JOt1Q)
+    - [ ] [Different Proxy Patterns - EIPs 897, 1822, 1967, 1538, 2535](https://ethereum-blockchain-developer.com/110-upgrade-smart-contracts/00-project/)
+    - [ ] [Openzeppelin Proxy docs](https://docs.openzeppelin.com/contracts/4.x/api/proxy)
     
 
 ### 5. Solidity Security Standard & Best Practice:
 
-- [solidity-patterns](https://github.com/fravoll/solidity-patterns)
-- [solcurity](https://github.com/transmissions11/solcurity)
-- [Smart Contract Security Verification Standard](https://github.com/securing/SCSVS)
-- [Consensys Smart-contract-best-practices](https://consensys.github.io/smart-contract-best-practices/)
-- [Security Pitfalls & Best Practices 101](https://secureum.substack.com/p/security-pitfalls-and-best-practices-101)
-- [Security Pitfalls & Best Practices 201](https://secureum.substack.com/p/security-pitfalls-and-best-practices-201)
+- [ ] [solidity-patterns](https://github.com/fravoll/solidity-patterns)
+- [ ] [solcurity](https://github.com/transmissions11/solcurity)
+- [ ] [Smart Contract Security Verification Standard](https://github.com/securing/SCSVS)
+- [ ] [Consensys Smart-contract-best-practices](https://consensys.github.io/smart-contract-best-practices/)
+- [ ] [Security Pitfalls & Best Practices 101](https://secureum.substack.com/p/security-pitfalls-and-best-practices-101)
+- [ ] [Security Pitfalls & Best Practices 201](https://secureum.substack.com/p/security-pitfalls-and-best-practices-201)
 
 ### 6. Smart Contract Vulnerabilities:
 
