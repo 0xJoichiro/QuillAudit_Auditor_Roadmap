@@ -43,7 +43,7 @@ If you find anything missing or want to update existing resources, you can creat
 
 ### 4. Commonly used Libraries and Token Standards:
 
-- [ ] **ERC Token Standards:**
+- [x] **ERC Token Standards:**
     - [x] [ERC 20](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/)
     - [x] [ERC 721 (NFT)](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/)
     - [x] [ERC 777](https://ethereum.org/en/developers/docs/standards/tokens/erc-777/)
