@@ -72,46 +72,46 @@ If you find anything missing or want to update existing resources, you can creat
 
 ### 6. Smart Contract Vulnerabilities:
 
-- [SWC Registry](https://swcregistry.io/)
-- [Kaden: Smart Contract Attack Vectors](https://github.com/KadenZipfel/smart-contract-attack-vectors)
-- [Solidity Attack Vectors](https://github.com/Quillhash/Solidity-Attack-Vectors)
-- [Common Vulnerabilities in Smart contracts MindMap](https://github.com/Anugrahsr/Awesome-web3-Security/blob/main/image/Vulnerabilities_in_Smart_contracts.png)
+- [ ] [SWC Registry](https://swcregistry.io/)
+- [ ] [Kaden: Smart Contract Attack Vectors](https://github.com/KadenZipfel/smart-contract-attack-vectors)
+- [ ] [Solidity Attack Vectors](https://github.com/Quillhash/Solidity-Attack-Vectors)
+- [ ] [Common Vulnerabilities in Smart contracts MindMap](https://github.com/Anugrahsr/Awesome-web3-Security/blob/main/image/Vulnerabilities_in_Smart_contracts.png)
 
 ### 7. CTF Challenges:
 
-- [Ethernaut](https://ethernaut.openzeppelin.com/)
-- [Capture The Ether](https://capturetheether.com/)
-- [QuillCTF](https://www.quillaudits.com/academy/ctf)
-- [Curta CTF](https://www.curta.wtf/)
-- [Paradigm CTF](https://ctf.paradigm.xyz/)
-- [ciphershastra CTF](https://ciphershastra.com/index.html)
-- [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
-- [unhackedctf](https://github.com/unhackedctf)
+- [ ] [Ethernaut](https://ethernaut.openzeppelin.com/)
+- [ ] [Capture The Ether](https://capturetheether.com/)
+- [ ] [QuillCTF](https://www.quillaudits.com/academy/ctf)
+- [ ] [Curta CTF](https://www.curta.wtf/)
+- [ ] [Paradigm CTF](https://ctf.paradigm.xyz/)
+- [ ] [ciphershastra CTF](https://ciphershastra.com/index.html)
+- [ ] [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
+- [ ] [unhackedctf](https://github.com/unhackedctf)
 
 **100+ CTF blockchain challenges:** [https://github.com/minaminao/ctf-blockchain](https://github.com/minaminao/ctf-blockchain#ethereumcontract-basics)
 
 ### 8. Finance and DeFi:
 
 - **Finance:**
-    - [Khan Academy’s Finance](https://www.khanacademy.org/economics-finance-domain/core-finance/derivative-securities)
+    - [ ] [Khan Academy’s Finance](https://www.khanacademy.org/economics-finance-domain/core-finance/derivative-securities)
 
 - **DeFi (Decentralized Finance)**
-    - [DeFi - Teachyourselfcrypto](https://teachyourselfcrypto.com/#ftoc-module-4-decentralized-finance-defi)
-    - [Finematics - DeFi](https://www.youtube.com/watch?v=pWGLtjG-F5c&list=PLjrTIwaNiTwn39tg3sR_bPBWGHoznv47D)
-    - [Smart Contract Programmer - DeFi](https://www.youtube.com/watch?v=qB2Ulx201wY&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW)
+    - [ ] [DeFi - Teachyourselfcrypto](https://teachyourselfcrypto.com/#ftoc-module-4-decentralized-finance-defi)
+    - [ ] [Finematics - DeFi](https://www.youtube.com/watch?v=pWGLtjG-F5c&list=PLjrTIwaNiTwn39tg3sR_bPBWGHoznv47D)
+    - [ ] [Smart Contract Programmer - DeFi](https://www.youtube.com/watch?v=qB2Ulx201wY&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW)
 - **Well known DeFi Protocols:**
-    - [Uniswap](https://mvpworkshop.co/blog/uniswap-v3-explained-all-you-need-to-know/)
-    - [Compound](https://mvpworkshop.co/blog/uniswap-v3-explained-all-you-need-to-know/)
-    - [Aave](https://www.youtube.com/watch?v=WwE3lUq51gQ)
-    - [Balancer](https://medium.com/token-terminal/eli5-what-is-balancer-labs-16c8cfe092d9)
+    - [ ] [Uniswap](https://mvpworkshop.co/blog/uniswap-v3-explained-all-you-need-to-know/)
+    - [ ] [Compound](https://mvpworkshop.co/blog/uniswap-v3-explained-all-you-need-to-know/)
+    - [ ] [Aave](https://www.youtube.com/watch?v=WwE3lUq51gQ)
+    - [ ] [Balancer](https://medium.com/token-terminal/eli5-what-is-balancer-labs-16c8cfe092d9)
 
 - **Common DeFi Attack Vectors:**
-    - [Flash Loan Attack](https://www.moonpay.com/blog/defi-flash-loans-explained)
-    - [Price Oracle Manipulation](https://medium.com/beaver-smartcontract-security/defi-security-lecture-7-price-oracle-manipulation-d716cdeaaf77)
-    - [Front-Running](https://www.securing.pl/en/front-running-attack-in-defi-applications-how-to-deal-with-it/)
-    - [Exit Scams](https://www.acamstoday.org/cryptocurrency-exit-scams-what-they-are-and-how-to-avoid-them/)
-    - [Sandwich attacks](https://trustwallet.com/blog/how-to-protect-yourself-from-sandwich-attacks)
-    - [Unlimited Token Allowance](https://kalis.me/unlimited-erc20-allowances/)
+    - [ ] [Flash Loan Attack](https://www.moonpay.com/blog/defi-flash-loans-explained)
+    - [ ] [Price Oracle Manipulation](https://medium.com/beaver-smartcontract-security/defi-security-lecture-7-price-oracle-manipulation-d716cdeaaf77)
+    - [ ] [Front-Running](https://www.securing.pl/en/front-running-attack-in-defi-applications-how-to-deal-with-it/)
+    - [ ] [Exit Scams](https://www.acamstoday.org/cryptocurrency-exit-scams-what-they-are-and-how-to-avoid-them/)
+    - [ ] [Sandwich attacks](https://trustwallet.com/blog/how-to-protect-yourself-from-sandwich-attacks)
+    - [ ] [Unlimited Token Allowance](https://kalis.me/unlimited-erc20-allowances/)
     
 ### 9. Auditing Tools and Techniques:
 - **Auditing Tools:**
